@@ -1,7 +1,7 @@
 ### Olá, meu nome é Victor Agosta
 
 - 🔭 Hoje trabalho com desenvolvimento em python
-- 🌱 Estudo SQL
+- 🌱 Estudo SQL, HTML, CSS
 - 😄 Pronomes: ele/dele
 
 <div align="center">
