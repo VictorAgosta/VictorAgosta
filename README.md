@@ -5,16 +5,17 @@
 - 😄 Pronomes: ele/dele
 
 <div align="center">
-  <a href="https://github.com/VictorAgosta">
-  <img width="37.8%" height="180em" src="https://github-readme-stats.vercel.app/api?username=VictorAgosta&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img width="45%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorAgosta&layout=compact&langs_count=7&theme=cobalt&include_all_commits=true"/>
+  <a href="https://github.com/VictorAgosta"></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=VictorAgosta&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true">
 </div>
 
 ####
   
 <div>
-  <img align="center" alt="Vic-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
-  <img align="center" alt="Vic-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg"/>
+  <img align="center" alt="Vic-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Vic-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg">
+  <img align="center" alt="Vic-MySQL" height="30" width="40" src="https://www.svgrepo.com/show/373669/html.svg">
+  <img align="center" alt="Vic-MySQL" height="30" width="40" src="https://www.svgrepo.com/show/373535/css.svg">
 </div>
 
 ##
